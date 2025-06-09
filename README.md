@@ -3,9 +3,8 @@ Hello, My name is Koen<br>I'm currently learning how to become a better version 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/@Yejun Jeon](https://www.linkedin.com/in/yejun-jeon-0a4ba9317/))[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BlessedKoen) [X](https://x.com/@BlessedKoen)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/@Yejun Jeon](https://www.linkedin.com/in/yejun-jeon-0a4ba9317/))
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BlessedKoen)]([https://x.com/@BlessedKoen)](https://x.com/@BlessedKoen))
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:

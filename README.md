@@ -7,7 +7,7 @@ Hello, My name is Koen<br>I'm currently learning how to become a better version 
 ([https://linkedin.com/in/@Yejun Jeon](https://www.linkedin.com/in/yejun-jeon-0a4ba9317/))
 [[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BlessedKoen)]
 ([https://x.com/@BlessedKoen)](https://x.com/@BlessedKoen))
-[[![Kaggle](file:///C:/Users/samsung/Downloads/kaggle.svg)](https://www.kaggle.com/yejunjeon)]
+[[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/yejunjeon)]
 ([https://www.kaggle.com/yejunjeon](https://www.kaggle.com/yejunjeon))
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
